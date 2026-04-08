@@ -1,0 +1,548 @@
+{
+  "business": {
+    "name": "West Frames and Crates",
+    "phone": "+16026174270",
+    "category": "carpenter",
+    "city": "Phoenix",
+    "state": "AZ"
+  },
+  "design": {
+    "preset": {
+      "id": "roofing-mountain-bold",
+      "categoryGroup": "roofing",
+      "name": "Mountain Bold",
+      "recipeFile": "roofing/mountain-bold.astro",
+      "colors": {
+        "primary": "#1A3A52",
+        "primaryDark": "#0F2436",
+        "primaryLight": "#C8DDE8",
+        "secondary": "#2D5F7C",
+        "accent": "#FFC600",
+        "background": "#FFFFFF",
+        "backgroundAlt": "#1A3A52",
+        "surface": "#F0F4F7",
+        "text": "#0F172A",
+        "textLight": "#64748B",
+        "textOnDark": "#FFFFFF",
+        "border": "#D1D5DB"
+      },
+      "typography": {
+        "headingFont": "Plus Jakarta Sans",
+        "headingWeight": "700",
+        "bodyFont": "Inter",
+        "bodyWeight": "400",
+        "headingStyle": "normal",
+        "scale": "1.2"
+      },
+      "shape": {
+        "borderRadius": "8px",
+        "buttonRadius": "8px",
+        "cardRadius": "12px",
+        "shadowStyle": "medium"
+      },
+      "sections": {
+        "heroStyle": "dark",
+        "sectionAlternation": [
+          "light",
+          "surface",
+          "light",
+          "surface",
+          "light"
+        ],
+        "animationStyle": "fade",
+        "spacingScale": "balanced"
+      }
+    },
+    "recipeId": "roofing/mountain-bold"
+  },
+  "content": {
+    "homepage": {
+      "heroHeadline": "Phoenix's Frame and Crate Masters",
+      "heroSubline": "Crafting enduring carpentry solutions for Arizona homes and businesses. West Frames and Crates: Quality built to last.",
+      "aboutTitle": "Craftsmanship Rooted in the Desert",
+      "aboutText": [
+        "West Frames and Crates began over a decade ago with a simple mission: provide honest, reliable carpentry services to our Phoenix neighbors. We saw a need for skilled tradespeople who understood the unique challenges of the Arizona climate and architecture, and we built our business on meeting that need.",
+        "Our approach is straightforward: meticulous planning, quality materials, and unwavering attention to detail. We treat every project, from a simple repair to a full-scale renovation, with the same level of care and dedication. We believe in open communication and transparency, ensuring you're informed and confident every step of the way.",
+        "We're proud to be a part of the Phoenix community. We source materials locally whenever possible, supporting other Arizona businesses. We also volunteer our skills for community projects, giving back to the city that has supported us."
+      ],
+      "valueProps": [
+        {
+          "title": "Arizona Expertise",
+          "description": "We understand Phoenix architecture and climate challenges."
+        },
+        {
+          "title": "Quality Materials",
+          "description": "We use only durable, high-grade materials built to last."
+        },
+        {
+          "title": "Transparent Pricing",
+          "description": "No hidden fees, just honest and upfront estimates."
+        },
+        {
+          "title": "Experienced Team",
+          "description": "Our skilled carpenters deliver exceptional results every time."
+        }
+      ],
+      "ctaHeadline": "Transform Your Space Today",
+      "ctaSubline": "Get a free quote for your Phoenix carpentry project. Call West Frames and Crates now!"
+    },
+    "services": [
+      {
+        "slug": "custom-framing",
+        "name": "Custom Framing",
+        "shortDescription": "Preserve your memories with expert custom framing services.",
+        "description": "West Frames and Crates offers custom framing solutions tailored to your artwork, photographs, and memorabilia. We understand the importance of preserving your cherished items while enhancing their aesthetic appeal. Our skilled artisans use high-quality materials and time-tested techniques to create frames that complement your pieces and protect them from the harsh Phoenix environment.\n\nWe provide a wide selection of frame styles, materials, and finishes to perfectly match your taste and decor. From classic wood frames to modern metal designs, we have options to suit every style. We also offer archival-quality matting and glazing to ensure the longevity of your framed items. Whether you're framing a valuable painting, a family portrait, or a sports jersey, we treat each project with the utmost care and attention to detail.\n\nOur process begins with a consultation to discuss your vision and assess the specific needs of your piece. We'll guide you through the selection process, offering expert advice on frame styles, colors, and materials. Once you've made your selections, our team will meticulously craft your custom frame to exact specifications. We take pride in our craftsmanship and guarantee your complete satisfaction.",
+        "process": [
+          "Consultation: Discuss your vision and assess your framing needs.",
+          "Selection: Choose from a wide variety of frame styles, materials, and finishes.",
+          "Crafting: Our artisans meticulously craft your custom frame.",
+          "Delivery: We carefully deliver and install your framed piece."
+        ],
+        "benefits": [
+          "Preserve and protect your cherished items.",
+          "Enhance the aesthetic appeal of your artwork and photographs.",
+          "Custom-designed frames to match your style and decor.",
+          "Archival-quality materials for long-lasting protection."
+        ],
+        "faq": [
+          {
+            "question": "What types of items can you frame?",
+            "answer": "We can frame virtually anything, including artwork, photographs, documents, memorabilia, and textiles. We have experience working with delicate and valuable items, ensuring they are handled with the utmost care."
+          },
+          {
+            "question": "How long does it take to get a custom frame?",
+            "answer": "The timeframe depends on the complexity of the project and the materials selected. We'll provide you with an estimated completion date during the consultation process. We always strive to complete projects as quickly as possible without compromising quality."
+          },
+          {
+            "question": "Do you offer delivery and installation services?",
+            "answer": "Yes, we offer delivery and installation services for your convenience. Our team will carefully transport and install your framed piece, ensuring it is securely mounted and looks its best."
+          }
+        ]
+      },
+      {
+        "slug": "custom-crates",
+        "name": "Custom Crates",
+        "shortDescription": "Secure and reliable custom crates for shipping and storage.",
+        "description": "West Frames and Crates specializes in designing and building custom crates for a wide range of applications, from shipping fragile items to storing valuable equipment. We understand the importance of protecting your assets during transit and storage, especially in the harsh Arizona climate. Our crates are built to withstand extreme temperatures, humidity, and rough handling.\n\nWe offer a variety of crate options, including wood crates, plywood crates, and reinforced crates for heavy or oversized items. We can also customize crates with features such as foam padding, tie-down straps, and locking mechanisms to provide added security. Our team works closely with you to understand your specific needs and design a crate that meets your exact requirements. We take into account the dimensions, weight, and fragility of your items to ensure they are properly protected.\n\nOur process begins with a thorough assessment of your crating needs. We'll discuss the items you need to crate, the shipping or storage conditions, and any specific requirements you may have. Based on this information, we'll design a custom crate that provides optimal protection. We use only high-quality materials and construction techniques to ensure our crates are durable and reliable.",
+        "process": [
+          "Assessment: We determine the ideal crate size, material, and features.",
+          "Design: We design a custom crate that meets your specific needs.",
+          "Construction: Our skilled craftsmen build your crate to exacting standards.",
+          "Delivery: We deliver your custom crate directly to your location."
+        ],
+        "benefits": [
+          "Secure and reliable protection for your valuable items.",
+          "Custom-designed crates to meet your specific needs.",
+          "Durable construction to withstand harsh conditions.",
+          "Peace of mind knowing your items are safe and secure."
+        ],
+        "faq": [
+          {
+            "question": "What types of items can you crate?",
+            "answer": "We can crate virtually anything, including machinery, artwork, electronics, furniture, and personal belongings. We have experience crating fragile and valuable items, as well as oversized and heavy equipment."
+          },
+          {
+            "question": "What materials do you use to build your crates?",
+            "answer": "We use a variety of materials, including wood, plywood, and reinforced steel, depending on the specific needs of the project. We only use high-quality materials that are durable and reliable."
+          },
+          {
+            "question": "Do you offer on-site crating services?",
+            "answer": "Yes, we offer on-site crating services for your convenience. Our team can come to your location and build your custom crate on-site, saving you time and hassle."
+          }
+        ]
+      },
+      {
+        "slug": "deck-construction-repair",
+        "name": "Deck Construction & Repair",
+        "shortDescription": "Build or restore your outdoor living space with a custom deck.",
+        "description": "West Frames and Crates specializes in deck construction and repair, creating beautiful and functional outdoor living spaces for Phoenix homes. We understand the importance of having a well-built and maintained deck to enjoy the Arizona sunshine and entertain guests. Our team has extensive experience in designing and building custom decks that meet your specific needs and complement your home's architecture.\n\nWe offer a variety of decking materials, including wood, composite, and PVC, to suit your style and budget. We also offer a range of railing options, including wood, metal, and glass, to enhance the safety and aesthetics of your deck. Whether you're looking to build a new deck from scratch or repair an existing one, we have the expertise and resources to get the job done right. We understand the challenges of the Arizona climate and use materials and construction techniques that are designed to withstand extreme temperatures and UV exposure.\n\nOur process begins with a consultation to discuss your vision and assess your property. We'll work with you to design a deck that meets your specific needs and budget. We'll also obtain all necessary permits and ensure that your deck is built to code. Our team uses only high-quality materials and construction techniques to ensure your deck is durable and long-lasting.",
+        "process": [
+          "Consultation: Discuss your vision and assess your property.",
+          "Design: We design a custom deck that meets your needs and budget.",
+          "Permitting: We obtain all necessary permits for your project.",
+          "Construction: Our skilled carpenters build your deck to code."
+        ],
+        "benefits": [
+          "Create a beautiful and functional outdoor living space.",
+          "Increase the value of your home.",
+          "Enjoy the Arizona sunshine and entertain guests.",
+          "Durable construction to withstand the Arizona climate."
+        ],
+        "faq": [
+          {
+            "question": "What types of decking materials do you offer?",
+            "answer": "We offer a variety of decking materials, including wood, composite, and PVC. Each material has its own unique benefits and drawbacks, and we can help you choose the best material for your specific needs and budget."
+          },
+          {
+            "question": "How long does it take to build a new deck?",
+            "answer": "The timeframe depends on the size and complexity of the deck. We'll provide you with an estimated completion date during the consultation process. We always strive to complete projects as quickly as possible without compromising quality."
+          },
+          {
+            "question": "Do you offer deck repair services?",
+            "answer": "Yes, we offer deck repair services for all types of decks. We can repair damaged boards, railings, and stairs, as well as address structural issues."
+          }
+        ]
+      },
+      {
+        "slug": "pergolas-patios",
+        "name": "Pergolas & Patios",
+        "shortDescription": "Enhance your outdoor living with custom pergolas and patios.",
+        "description": "West Frames and Crates designs and builds custom pergolas and patios to enhance your outdoor living space in Phoenix. A well-designed pergola provides shade and style, while a custom patio extends your living area into the outdoors. We understand the importance of creating comfortable and inviting outdoor spaces that can be enjoyed year-round, despite the Arizona heat.\n\nWe offer a variety of pergola styles, including traditional wood pergolas, modern metal pergolas, and custom-designed pergolas to match your home's architecture. For patios, we work with pavers, concrete, and natural stone to create durable and aesthetically pleasing surfaces. Our team works closely with you to understand your specific needs and design a pergola or patio that complements your home and lifestyle.\n\nOur process begins with a consultation to discuss your vision and assess your property. We'll create a design that maximizes your outdoor space and provides the shade and comfort you need. We handle all aspects of the project, from permitting to construction, ensuring a seamless and stress-free experience. We use high-quality materials and construction techniques to ensure your pergola or patio is durable and long-lasting.",
+        "process": [
+          "Consultation: Discuss your vision and assess your property.",
+          "Design: We create a custom design that meets your needs and budget.",
+          "Permitting: We obtain all necessary permits for your project.",
+          "Construction: Our skilled craftsmen build your pergola or patio."
+        ],
+        "benefits": [
+          "Create a comfortable and inviting outdoor living space.",
+          "Add shade and style to your yard.",
+          "Increase the value of your home.",
+          "Durable construction to withstand the Arizona climate."
+        ],
+        "faq": [
+          {
+            "question": "What is the best material for a pergola in Phoenix?",
+            "answer": "Wood is a classic choice for pergolas, but metal is a more durable option in the Arizona climate. We can help you choose the best material based on your budget and aesthetic preferences."
+          },
+          {
+            "question": "Do I need a permit to build a pergola or patio?",
+            "answer": "In most cases, you will need a permit to build a pergola or patio. We will handle all aspects of the permitting process for you."
+          },
+          {
+            "question": "How long does it take to build a pergola or patio?",
+            "answer": "The timeframe depends on the size and complexity of the project. We will provide you with an estimated completion date during the consultation process."
+          }
+        ]
+      },
+      {
+        "slug": "door-window-install",
+        "name": "Door & Window Installation",
+        "shortDescription": "Expert door and window installation for energy efficiency and security.",
+        "description": "West Frames and Crates provides professional door and window installation services for Phoenix homes and businesses. Upgrading your doors and windows can improve energy efficiency, enhance security, and increase the value of your property. We understand the importance of proper installation to ensure optimal performance and longevity, especially in the harsh Arizona climate.\n\nWe offer a wide selection of doors and windows from leading manufacturers, including energy-efficient models that can help you save money on your utility bills. We also offer a variety of styles and materials to match your home's architecture and your personal preferences. Our team has extensive experience in installing all types of doors and windows, including wood, vinyl, and aluminum.\n\nOur process begins with a consultation to assess your needs and recommend the best doors and windows for your property. We'll provide you with a detailed estimate and schedule the installation at your convenience. Our skilled installers will carefully remove your old doors and windows and install the new ones with precision and attention to detail. We'll also ensure that your doors and windows are properly sealed to prevent drafts and leaks. We understand the dust and heat issues that can arise and address them proactively.",
+        "process": [
+          "Consultation: Assess your needs and recommend the best doors and windows.",
+          "Selection: Choose from a wide variety of styles and materials.",
+          "Installation: Our skilled installers carefully install your new doors and windows.",
+          "Sealing: We ensure your doors and windows are properly sealed."
+        ],
+        "benefits": [
+          "Improve energy efficiency and save money on utility bills.",
+          "Enhance security and protect your property.",
+          "Increase the value of your home.",
+          "Professional installation for optimal performance."
+        ],
+        "faq": [
+          {
+            "question": "What are the benefits of energy-efficient windows?",
+            "answer": "Energy-efficient windows can help you save money on your utility bills by reducing heat transfer. They can also make your home more comfortable by reducing drafts and noise."
+          },
+          {
+            "question": "How long does it take to install new doors and windows?",
+            "answer": "The timeframe depends on the number of doors and windows being installed. We will provide you with an estimated completion date during the consultation process."
+          },
+          {
+            "question": "Do you offer a warranty on your door and window installations?",
+            "answer": "Yes, we offer a warranty on our door and window installations. We stand behind our work and ensure your satisfaction."
+          }
+        ]
+      },
+      {
+        "slug": "trim-molding",
+        "name": "Trim & Molding Installation",
+        "shortDescription": "Add elegance and detail to your home with expert trim and molding.",
+        "description": "West Frames and Crates specializes in trim and molding installation, adding elegance and detail to Phoenix homes. Crown molding, baseboards, door casings, and window trim can dramatically enhance the aesthetic appeal of any room. We understand the importance of precise installation to achieve a flawless finish that complements your home's style.\n\nWe offer a wide selection of trim and molding styles, including traditional, modern, and custom designs. We work with various materials, including wood, MDF, and PVC, to suit your budget and aesthetic preferences. Our team has extensive experience in installing all types of trim and molding, ensuring a seamless and professional result.\n\nOur process begins with a consultation to discuss your vision and assess your home's architectural style. We'll recommend the best trim and molding styles to complement your decor. Our skilled installers will carefully measure, cut, and install the trim and molding with precision and attention to detail. We'll also ensure that the trim and molding is properly painted or stained to match your existing decor.",
+        "process": [
+          "Consultation: Discuss your vision and assess your home's style.",
+          "Selection: Choose from a wide variety of trim and molding styles.",
+          "Installation: Our skilled installers carefully install the trim and molding.",
+          "Finishing: We paint or stain the trim and molding to match your decor."
+        ],
+        "benefits": [
+          "Add elegance and detail to your home.",
+          "Enhance the aesthetic appeal of any room.",
+          "Increase the value of your property.",
+          "Professional installation for a flawless finish."
+        ],
+        "faq": [
+          {
+            "question": "What types of trim and molding do you offer?",
+            "answer": "We offer a wide selection of trim and molding styles, including crown molding, baseboards, door casings, window trim, and chair rails. We also offer custom-designed trim and molding."
+          },
+          {
+            "question": "What is the best material for trim and molding?",
+            "answer": "Wood is a classic choice for trim and molding, but MDF and PVC are more durable options in high-moisture areas. We can help you choose the best material based on your needs and budget."
+          },
+          {
+            "question": "How long does it take to install trim and molding?",
+            "answer": "The timeframe depends on the size and complexity of the project. We will provide you with an estimated completion date during the consultation process."
+          }
+        ]
+      }
+    ],
+    "serviceAreas": [
+      {
+        "city": "Scottsdale",
+        "slug": "scottsdale-az",
+        "state": "AZ",
+        "content": "West Frames and Crates is proud to offer our expert carpentry services to Scottsdale, Arizona. From the breathtaking McDowell Sonoran Preserve to the vibrant Old Town, Scottsdale boasts a unique blend of natural beauty and sophisticated living. We understand the architectural styles prevalent in Scottsdale, from luxury Southwestern estates to modern desert homes, and we tailor our craftsmanship to complement your property's aesthetic.\n\nOur team is experienced in working with the specific challenges presented by the Scottsdale climate, including the extreme summer heat. We use durable, weather-resistant materials and construction techniques to ensure your custom carpentry projects withstand the test of time. Whether you need custom cabinetry, patio structures, or unique woodworking, West Frames and Crates is committed to providing exceptional quality and service to Scottsdale residents.",
+        "localContext": "Scottsdale is known for its luxury resorts, golf courses, and high-end shopping, attracting residents who appreciate quality and craftsmanship.",
+        "nearbyAreas": [
+          "Phoenix",
+          "Paradise Valley",
+          "Fountain Hills"
+        ]
+      },
+      {
+        "city": "Mesa",
+        "slug": "mesa-az",
+        "state": "AZ",
+        "content": "West Frames and Crates is dedicated to providing top-notch carpentry services in Mesa, Arizona. As the third-largest city in Arizona, Mesa offers a diverse community and a rich history. We recognize the prevalent architectural styles in Mesa, particularly the 1970s and 80s stucco homes that define many neighborhoods. Our team is skilled in updating and enhancing these homes with custom carpentry solutions.\n\nWe understand the importance of durability and longevity in the Mesa climate, where extreme summer heat can take a toll on outdoor structures. We use high-quality materials and proven techniques to ensure your carpentry projects withstand the elements. From custom decks and pergolas to interior trim and cabinetry, West Frames and Crates is committed to delivering exceptional craftsmanship and personalized service to Mesa homeowners.",
+        "localContext": "Mesa features a mix of residential areas, commercial centers, and recreational opportunities, reflecting its growth and diverse population.",
+        "nearbyAreas": [
+          "Tempe",
+          "Gilbert",
+          "Chandler"
+        ]
+      },
+      {
+        "city": "Chandler",
+        "slug": "chandler-az",
+        "state": "AZ",
+        "content": "West Frames and Crates is pleased to offer our professional carpentry services to Chandler, Arizona. Known for its family-friendly atmosphere and thriving tech industry, Chandler features many planned communities developed in the 1990s and 2000s. We are familiar with the architectural styles common in these neighborhoods and can provide custom carpentry solutions to enhance your home's functionality and appeal.\n\nWe understand the challenges of the Chandler climate, where extreme summer heat can impact outdoor structures. We utilize durable, weather-resistant materials and construction methods to ensure your carpentry projects stand the test of time. Whether you need custom entertainment centers, closet organization systems, or outdoor living spaces, West Frames and Crates is committed to delivering exceptional quality and personalized service to Chandler residents.",
+        "localContext": "Chandler is characterized by its master-planned communities, family-friendly amenities, and strong job market, attracting residents seeking a high quality of life.",
+        "nearbyAreas": [
+          "Gilbert",
+          "Tempe",
+          "Mesa"
+        ]
+      },
+      {
+        "city": "Gilbert",
+        "slug": "gilbert-az",
+        "state": "AZ",
+        "content": "West Frames and Crates is excited to provide expert carpentry services in Gilbert, Arizona. As one of the fastest-growing communities in the Phoenix metropolitan area, Gilbert features primarily newer construction from the 2000s to the 2020s. We are well-versed in the architectural styles prevalent in these modern homes and can create custom carpentry solutions to match your unique taste.\n\nWe recognize the importance of durability and energy efficiency in the Gilbert climate, where extreme summer heat can significantly impact your home's comfort. We use high-quality materials and construction techniques to ensure your carpentry projects not only look beautiful but also withstand the elements. From custom kitchen islands and built-in shelving to outdoor patios and shade structures, West Frames and Crates is dedicated to delivering exceptional craftsmanship and personalized service to Gilbert homeowners.",
+        "localContext": "Gilbert is known for its family-oriented atmosphere, excellent schools, and abundance of parks and recreational facilities.",
+        "nearbyAreas": [
+          "Chandler",
+          "Mesa",
+          "Queen Creek"
+        ]
+      },
+      {
+        "city": "Tempe",
+        "slug": "tempe-az",
+        "state": "AZ",
+        "content": "West Frames and Crates proudly serves the carpentry needs of Tempe, Arizona. Home to Arizona State University, Tempe boasts a vibrant and diverse community with a mix of older and newer homes. We understand the unique architectural styles found in Tempe, from charming bungalows near campus to modern apartments downtown, and we tailor our craftsmanship to suit your property's character.\n\nWe are experienced in working with the constraints and opportunities presented by Tempe's urban environment. Whether you need custom bookshelves for your study, a stylish bar for entertaining, or repairs to your historic home, West Frames and Crates is committed to providing exceptional quality and service to Tempe residents. We understand the impact of the extreme summer heat and use appropriate materials to ensure longevity.",
+        "localContext": "Tempe is a bustling college town and a hub for innovation, offering a lively mix of entertainment, culture, and outdoor activities.",
+        "nearbyAreas": [
+          "Phoenix",
+          "Mesa",
+          "Scottsdale"
+        ]
+      },
+      {
+        "city": "Phoenix",
+        "slug": "phoenix-az",
+        "state": "AZ",
+        "content": "West Frames and Crates is based in Phoenix, Arizona and provides full service carpentry to the entire valley. Phoenix is a large city with diverse architectural styles, from historic homes in downtown to modern builds in the suburbs. We have experience working with a wide range of projects and designs to suit your specific needs. \n\nWe understand the heat, dust, and monsoon seasons that Phoenix faces. We will use durable materials and construction techniques to ensure the longevity of your carpentry projects. Contact us today for a free consultation!",
+        "localContext": "Phoenix is a large and diverse metropolitan area known for its desert landscape, warm climate, and vibrant arts and culture scene.",
+        "nearbyAreas": [
+          "Glendale",
+          "Scottsdale",
+          "Tempe"
+        ]
+      },
+      {
+        "city": "Paradise Valley",
+        "slug": "paradise-valley-az",
+        "state": "AZ",
+        "content": "West Frames and Crates is delighted to offer our expert carpentry services to Paradise Valley, Arizona. Known for its luxury homes, stunning desert landscapes, and mountain views, Paradise Valley demands the highest level of craftsmanship. We understand the unique architectural styles prevalent in the area, from sprawling estates to custom-designed residences, and we tailor our work to complement the discerning tastes of Paradise Valley homeowners.\n\nWe are experienced in working with high-end materials and intricate designs. Whether you need custom cabinetry, elegant trim work, or outdoor structures that blend seamlessly with the surrounding environment, West Frames and Crates is committed to providing exceptional quality and personalized service to Paradise Valley residents. We understand the impact of the extreme summer heat and use appropriate materials to ensure longevity.",
+        "localContext": "Paradise Valley is an affluent town known for its luxury homes, resorts, and stunning desert scenery.",
+        "nearbyAreas": [
+          "Scottsdale",
+          "Phoenix",
+          "Fountain Hills"
+        ]
+      },
+      {
+        "city": "Queen Creek",
+        "slug": "queen-creek-az",
+        "state": "AZ",
+        "content": "West Frames and Crates is proud to offer our professional carpentry services to Queen Creek, Arizona. As a rapidly growing town in the southeast valley, Queen Creek features primarily newer construction with a focus on family-friendly living. We are familiar with the architectural styles common in these communities and can provide custom carpentry solutions to enhance your home's functionality and aesthetic appeal.\n\nWe understand the importance of durability and affordability in the Queen Creek market. We offer a range of carpentry services to suit your budget and needs, from custom storage solutions to outdoor living spaces. Whether you need a new deck, a custom-built shed, or interior trim work, West Frames and Crates is committed to delivering exceptional quality and personalized service to Queen Creek residents.",
+        "localContext": "Queen Creek is a family-oriented town characterized by its master-planned communities, equestrian properties, and agricultural heritage.",
+        "nearbyAreas": [
+          "Gilbert",
+          "San Tan Valley",
+          "Chandler"
+        ]
+      }
+    ],
+    "reviews": [
+      {
+        "name": "Maria G.",
+        "rating": 5,
+        "service": "Custom Framing",
+        "text": "West Frames and Crates did an amazing job framing my family photos. They helped me choose the perfect frames to match my decor, and the quality of the work is outstanding. I highly recommend them!",
+        "date": "2025-03-15"
+      },
+      {
+        "name": "David S.",
+        "rating": 4,
+        "service": "Deck Repair",
+        "text": "Our deck was in rough shape after years of Arizona sun. West Frames and Crates repaired the damaged boards and railings, making it look like new again. They were professional and efficient.",
+        "date": "2025-04-01"
+      },
+      {
+        "name": "Lisa K.",
+        "rating": 5,
+        "service": "Custom Crates",
+        "text": "Needed a custom crate built to ship some fragile equipment. West Frames and Crates delivered a sturdy, well-built crate that protected my equipment during transport. Excellent service!",
+        "date": "2025-04-15"
+      },
+      {
+        "name": "Robert B.",
+        "rating": 5,
+        "service": "Door Installation",
+        "text": "West Frames and Crates installed a new front door for my home. The installation was seamless, and the new door looks great. I noticed a difference in energy efficiency right away.",
+        "date": "2025-05-01"
+      },
+      {
+        "name": "Susan P.",
+        "rating": 4,
+        "service": "Pergola Construction",
+        "text": "We hired West Frames and Crates to build a pergola in our backyard. The pergola is beautiful and provides much-needed shade during the summer. There were a couple of minor delays, but the final product was worth the wait.",
+        "date": "2025-05-15"
+      },
+      {
+        "name": "Michael L.",
+        "rating": 5,
+        "service": "Trim & Molding",
+        "text": "West Frames and Crates did a fantastic job installing crown molding in my living room. The attention to detail was impressive, and the finished product looks amazing. Highly recommend their trim work!",
+        "date": "2025-06-01"
+      }
+    ],
+    "seo": {
+      "homepage": {
+        "title": "Phoenix Carpenter | West Frames and Crates",
+        "description": "Expert carpentry in Phoenix, AZ. Custom framing, crates, decks, pergolas. Quality craftsmanship for Arizona homes."
+      },
+      "about": {
+        "title": "About Us | West Frames and Crates Phoenix",
+        "description": "Learn about West Frames and Crates: Phoenix carpenters committed to quality, craftsmanship, and community."
+      },
+      "services": {
+        "title": "Carpentry Services | West Frames and Crates",
+        "description": "Phoenix carpentry services: Custom framing, crates, deck & pergola construction, door & window installation."
+      },
+      "contact": {
+        "title": "Contact Us | West Frames and Crates Phoenix",
+        "description": "Contact West Frames and Crates for Phoenix carpentry services. Get a free quote for your project today!"
+      },
+      "reviews": {
+        "title": "Reviews | West Frames and Crates Phoenix",
+        "description": "Read reviews of West Frames and Crates. See what our Phoenix customers say about our carpentry services."
+      },
+      "service-areas": {
+        "title": "Service Areas | West Frames and Crates",
+        "description": "West Frames and Crates provides carpentry services throughout the Phoenix metro area. See our service locations."
+      }
+    },
+    "companyInfo": {
+      "yearsInBusiness": 12,
+      "projectsCompleted": "800+",
+      "satisfaction": "97%",
+      "teamSize": "20+"
+    }
+  },
+  "images": {
+    "hero": "/images/hero.webp",
+    "heroResponsive": {
+      "src": "/images/hero.webp",
+      "srcset": "/images/hero-400w.webp 400w, /images/hero-800w.webp 800w, /images/hero-1200w.webp 1200w, /images/hero.webp 1376w",
+      "sizes": "100vw",
+      "width": 1376,
+      "height": 768
+    },
+    "about": "/images/about.webp",
+    "aboutResponsive": {
+      "src": "/images/about.webp",
+      "srcset": "/images/about-400w.webp 400w, /images/about-800w.webp 800w, /images/about-1200w.webp 1200w, /images/about.webp 1200w",
+      "sizes": "(max-width: 768px) 100vw, (max-width: 1024px) 50vw, 33vw",
+      "width": 1200,
+      "height": 896
+    },
+    "services": {
+      "custom-framing": "/images/service-custom-framing.webp",
+      "custom-crates": "/images/service-custom-crates.webp",
+      "deck-construction-repair": "/images/service-deck-construction-repair.webp",
+      "pergolas-patios": "/images/service-pergolas-patios.webp",
+      "door-window-install": "/images/service-door-window-install.webp",
+      "trim-molding": "/images/service-trim-molding.webp"
+    },
+    "servicesResponsive": {
+      "custom-framing": {
+        "src": "/images/service-custom-framing.webp",
+        "srcset": "/images/service-custom-framing-400w.webp 400w, /images/service-custom-framing-800w.webp 800w, /images/service-custom-framing-1200w.webp 1200w, /images/service-custom-framing.webp 1264w",
+        "sizes": "(max-width: 768px) 100vw, (max-width: 1024px) 50vw, 33vw",
+        "width": 1264,
+        "height": 848
+      },
+      "custom-crates": {
+        "src": "/images/service-custom-crates.webp",
+        "srcset": "/images/service-custom-crates-400w.webp 400w, /images/service-custom-crates-800w.webp 800w, /images/service-custom-crates-1200w.webp 1200w, /images/service-custom-crates.webp 1264w",
+        "sizes": "(max-width: 768px) 100vw, (max-width: 1024px) 50vw, 33vw",
+        "width": 1264,
+        "height": 848
+      },
+      "deck-construction-repair": {
+        "src": "/images/service-deck-construction-repair.webp",
+        "srcset": "/images/service-deck-construction-repair-400w.webp 400w, /images/service-deck-construction-repair-800w.webp 800w, /images/service-deck-construction-repair-1200w.webp 1200w, /images/service-deck-construction-repair.webp 1264w",
+        "sizes": "(max-width: 768px) 100vw, (max-width: 1024px) 50vw, 33vw",
+        "width": 1264,
+        "height": 848
+      },
+      "pergolas-patios": {
+        "src": "/images/service-pergolas-patios.webp",
+        "srcset": "/images/service-pergolas-patios-400w.webp 400w, /images/service-pergolas-patios-800w.webp 800w, /images/service-pergolas-patios-1200w.webp 1200w, /images/service-pergolas-patios.webp 1264w",
+        "sizes": "(max-width: 768px) 100vw, (max-width: 1024px) 50vw, 33vw",
+        "width": 1264,
+        "height": 848
+      },
+      "door-window-install": {
+        "src": "/images/service-door-window-install.webp",
+        "srcset": "/images/service-door-window-install-400w.webp 400w, /images/service-door-window-install-800w.webp 800w, /images/service-door-window-install-1200w.webp 1200w, /images/service-door-window-install.webp 1264w",
+        "sizes": "(max-width: 768px) 100vw, (max-width: 1024px) 50vw, 33vw",
+        "width": 1264,
+        "height": 848
+      },
+      "trim-molding": {
+        "src": "/images/service-trim-molding.webp",
+        "srcset": "/images/service-trim-molding-400w.webp 400w, /images/service-trim-molding-800w.webp 800w, /images/service-trim-molding-1200w.webp 1200w, /images/service-trim-molding.webp 1264w",
+        "sizes": "(max-width: 768px) 100vw, (max-width: 1024px) 50vw, 33vw",
+        "width": 1264,
+        "height": 848
+      }
+    },
+    "gallery": [
+      "/images/gallery-0.webp",
+      "/images/gallery-1.webp"
+    ],
+    "galleryResponsive": [
+      {
+        "src": "/images/gallery-0.webp",
+        "srcset": "/images/gallery-0-400w.webp 400w, /images/gallery-0-800w.webp 800w, /images/gallery-0-1200w.webp 1200w, /images/gallery-0.webp 1200w",
+        "sizes": "(max-width: 768px) 100vw, (max-width: 1024px) 50vw, 33vw",
+        "width": 1200,
+        "height": 896
+      },
+      {
+        "src": "/images/gallery-1.webp",
+        "srcset": "/images/gallery-1-400w.webp 400w, /images/gallery-1-800w.webp 800w, /images/gallery-1-1200w.webp 1200w, /images/gallery-1.webp 1264w",
+        "sizes": "(max-width: 768px) 100vw, (max-width: 1024px) 50vw, 33vw",
+        "width": 1264,
+        "height": 848
+      }
+    ]
+  }
+}

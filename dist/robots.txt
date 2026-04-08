@@ -1,0 +1,4 @@
+User-agent: *
+Allow: /
+
+Sitemap: https://demo-west-frames-and-crates.dream-surge.com/sitemap-index.xml
